@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceCalculator", "SequenceCalculator\SequenceCalculator.csproj", "{44C475D8-3514-4DD3-9AFF-83D5AC24D4BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceCalculator.Tests", "SequenceCalculator.Tests\SequenceCalculator.Tests.csproj", "{E1AB2375-FBD3-4D7A-9E54-E72EFBBCF87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C475D8-3514-4DD3-9AFF-83D5AC24D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C475D8-3514-4DD3-9AFF-83D5AC24D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C475D8-3514-4DD3-9AFF-83D5AC24D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C475D8-3514-4DD3-9AFF-83D5AC24D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AB2375-FBD3-4D7A-9E54-E72EFBBCF87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AB2375-FBD3-4D7A-9E54-E72EFBBCF87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AB2375-FBD3-4D7A-9E54-E72EFBBCF87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AB2375-FBD3-4D7A-9E54-E72EFBBCF87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

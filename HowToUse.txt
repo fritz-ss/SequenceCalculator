@@ -1,0 +1,4 @@
+1. Run the solution on visual studio.
+2. Browser will open the web page.
+3. Enter a number into the textbox.
+4. Sequences will be displayed under the textbox.
